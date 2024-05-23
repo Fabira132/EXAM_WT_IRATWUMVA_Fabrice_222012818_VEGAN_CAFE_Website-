@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-container form{
+    box-sizing: border-box;
+    box-shadow: dark green;
+    text-align: center;
+}
